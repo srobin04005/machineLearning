@@ -1,0 +1,10 @@
+---
+title: "PML Assignment"
+author: "scott"
+date: "Thursday, November 06, 2014"
+output: html_document
+---
+
+setwd("C:\\Users\\srobin\\Documents\\GitHub\\machineLearning")
+
+train <- read.csv("pml-training.csv")
